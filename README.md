@@ -14,7 +14,7 @@ Based in Barcelona · Originally from São Paulo 🇧🇷
 ## ▸ Featured projects
 
 **[Recall](https://recall-cns.vercel.app)** — Conversational note-taking app with RAG  
-Built solo, end-to-end, without AI coding tools. React, Node/Express, PostgreSQL + pgvector, Prisma, Gemini API.  
+Built solo, end-to-end. React, Node/Express, PostgreSQL + pgvector, Prisma, Gemini API.  
 → [repo](https://github.com/natalia-papa/CNS)
 
 **MindGlee** — Digital wellness PWA for social anxiety management  
