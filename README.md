@@ -26,4 +26,4 @@ Before software, I was an architect at renowned firms, working on large-scale ho
 
 ## ▸ Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/nataliapapa) · [Email](nataliapapa.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nataliapapa) · [Email](mailto:nataliapapa.dev@gmail.com)
